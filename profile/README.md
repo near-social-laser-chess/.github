@@ -17,6 +17,8 @@ https://user-images.githubusercontent.com/63261287/221338489-af7e257e-6a23-4c67-
 ### GAMEPLAY
 The game is played on an 10x8 board. Each player has a laser, which can be used to capture opposing pieces by shooting a beam of light. The goal of the game is to capture the opponent's king piece with a laser.
 
+![readme-preview](https://user-images.githubusercontent.com/63261287/221340688-2a7e885d-44ff-49e0-9e22-d8e094cdc4af.png)
+
 The pieces in the game are as follows:
 
 - Laser (1 per player)
